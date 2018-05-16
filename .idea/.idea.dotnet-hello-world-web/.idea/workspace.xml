@@ -24,38 +24,60 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Startup.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Repository.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/Repository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+            <state relative-caret-position="255">
+              <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
               <folding>
-                <marker date="1526491910331" expanded="true" signature="6:180" ph="..." />
-                <marker date="1526491910331" expanded="true" signature="199:1334" ph="{...}" />
-                <marker date="1526491910331" expanded="true" signature="226:1332" ph="{...}" />
-                <marker date="1526491910331" expanded="true" signature="293:356" ph="{...}" />
-                <marker date="1526491910331" expanded="true" signature="579:934" ph="{...}" />
-                <marker date="1526491910331" expanded="true" signature="1122:1326" ph="{...}" />
-                <marker date="1526491910331" expanded="true" signature="1169:1246" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="6:146" ph="..." />
+                <marker date="1526498872181" expanded="true" signature="174:3797" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="211:3795" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="331:384" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="506:1147" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="532:1050" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1083:1137" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1201:1277" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1319:1384" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1432:2289" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1508:2279" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1580:1828" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1878:2234" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="1920:2067" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2114:2216" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2338:2993" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2414:2983" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2448:2571" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2621:2968" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2663:2801" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="2848:2950" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="3036:3789" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="3112:3779" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="3245:3368" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="3418:3765" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="3460:3598" ph="{...}" />
+                <marker date="1526498872181" expanded="true" signature="3624:3747" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Program.cs">
+      <file leaf-file-name="RecipesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/RecipesController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+            <state relative-caret-position="328">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
-                <marker date="1526491512421" expanded="true" signature="6:184" ph="..." />
-                <marker date="1526491512421" expanded="true" signature="203:1486" ph="{...}" />
-                <marker date="1526491512421" expanded="true" signature="230:1484" ph="{...}" />
-                <marker date="1526491512421" expanded="true" signature="342:400" ph="{...}" />
-                <marker date="1526491512421" expanded="true" signature="461:1478" ph="{...}" />
-                <marker date="1526491512421" expanded="true" signature="832:1390" ph="{...}" />
-                <marker date="1526491512421" expanded="true" signature="924:1367" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="6:125" ph="..." />
+                <marker date="1526496100067" expanded="true" signature="156:1903" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="238:1901" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="375:443" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="540:734" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="841:1276" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="898:998" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="1399:1681" ph="{...}" />
+                <marker date="1526496100067" expanded="true" signature="1787:1895" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,14 +94,32 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeStepMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeItemMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/Repository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/LesiController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/RecipesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dotnet-hello-world-web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dotnet-hello-world-web/Controllers/ValuesController.cs" />
-        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Program.cs" />
         <option value="$PROJECT_DIR$/dotnet-hello-world-web/Startup.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Program.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Controllers/LesiController.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Models/Recipe.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeStep.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeItem.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Mappings/RecipeMap.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Mappings/RecipeStepMap.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Mappings/RecipeItemMap.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Controllers/RecipesController.cs" />
+        <option value="$PROJECT_DIR$/dotnet-hello-world-web/Models/Repository.cs" />
       </list>
     </option>
   </component>
@@ -123,6 +163,12 @@
               <item name="dotnet-hello-world-web (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="dotnet-hello-world-web" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="dotnet-hello-world-web (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="dotnet-hello-world-web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -185,12 +231,13 @@
       <updated>1526334841641</updated>
       <workItem from="1526334843405" duration="167000" />
       <workItem from="1526399754849" duration="433000" />
-      <workItem from="1526489765152" duration="2251000" />
+      <workItem from="1526489765152" duration="2397000" />
+      <workItem from="1526492196789" duration="4983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2851000" />
+    <option name="totallyTimeSpent" value="7980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -203,6 +250,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-3" width="1366" height="771" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32954547" />
@@ -212,12 +260,13 @@
       <window_info anchor="bottom" id="REST Client" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3296875" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3921875" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22954546" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.3921875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3296875" />
       <window_info anchor="right" id="Database" order="3" weight="0.32954547" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -227,7 +276,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,34 +296,12 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/ValuesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526490037825" expanded="true" signature="6:65" ph="..." />
-            <marker date="1526490037825" expanded="true" signature="96:852" ph="{...}" />
-            <marker date="1526490037825" expanded="true" signature="177:850" ph="{...}" />
-            <marker date="1526490037825" expanded="true" signature="268:342" ph="{...}" />
-            <marker date="1526490037825" expanded="true" signature="431:479" ph="{...}" />
-            <marker date="1526490037825" expanded="true" signature="576:596" ph="{...}" />
-            <marker date="1526490037825" expanded="true" signature="708:728" ph="{...}" />
-            <marker date="1526490037825" expanded="true" signature="824:844" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="585">
           <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding>
-            <marker date="1526491910331" expanded="true" signature="6:180" ph="..." />
+            <marker date="1526491910331" expanded="false" signature="6:180" ph="..." />
             <marker date="1526491910331" expanded="true" signature="199:1334" ph="{...}" />
             <marker date="1526491910331" expanded="true" signature="226:1332" ph="{...}" />
             <marker date="1526491910331" expanded="true" signature="293:356" ph="{...}" />
@@ -288,16 +314,212 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
+        <state relative-caret-position="465">
           <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
           <folding>
-            <marker date="1526491512421" expanded="true" signature="6:184" ph="..." />
-            <marker date="1526491512421" expanded="true" signature="203:1486" ph="{...}" />
-            <marker date="1526491512421" expanded="true" signature="230:1484" ph="{...}" />
-            <marker date="1526491512421" expanded="true" signature="342:400" ph="{...}" />
-            <marker date="1526491512421" expanded="true" signature="461:1478" ph="{...}" />
-            <marker date="1526491512421" expanded="true" signature="832:1390" ph="{...}" />
-            <marker date="1526491512421" expanded="true" signature="924:1367" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="6:235" ph="..." />
+            <marker date="1526492869494" expanded="true" signature="254:2174" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="281:2172" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="393:1058" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="703:827" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="860:951" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="971:1036" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="1119:2166" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="1490:2048" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="1582:2025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding>
+            <marker date="1526491910331" expanded="false" signature="6:180" ph="..." />
+            <marker date="1526491910331" expanded="true" signature="199:1334" ph="{...}" />
+            <marker date="1526491910331" expanded="true" signature="226:1332" ph="{...}" />
+            <marker date="1526491910331" expanded="true" signature="293:356" ph="{...}" />
+            <marker date="1526491910331" expanded="true" signature="579:934" ph="{...}" />
+            <marker date="1526491910331" expanded="true" signature="1122:1326" ph="{...}" />
+            <marker date="1526491910331" expanded="true" signature="1169:1246" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <marker date="1526492869494" expanded="true" signature="6:235" ph="..." />
+            <marker date="1526492869494" expanded="true" signature="254:2174" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="281:2172" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="393:1058" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="703:827" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="860:951" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="971:1036" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="1119:2166" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="1490:2048" ph="{...}" />
+            <marker date="1526492869494" expanded="true" signature="1582:2025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="31" selection-start-line="5" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <marker date="1526490037825" expanded="false" signature="6:65" ph="..." />
+            <marker date="1526490037825" expanded="true" signature="96:852" ph="{...}" />
+            <marker date="1526490037825" expanded="true" signature="177:850" ph="{...}" />
+            <marker date="1526490037825" expanded="true" signature="268:342" ph="{...}" />
+            <marker date="1526490037825" expanded="true" signature="431:479" ph="{...}" />
+            <marker date="1526490037825" expanded="true" signature="576:596" ph="{...}" />
+            <marker date="1526490037825" expanded="true" signature="708:728" ph="{...}" />
+            <marker date="1526490037825" expanded="true" signature="824:844" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/LesiController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <marker date="1526493682497" expanded="true" signature="6:65" ph="..." />
+            <marker date="1526493682497" expanded="true" signature="96:530" ph="{...}" />
+            <marker date="1526493682497" expanded="true" signature="175:528" ph="{...}" />
+            <marker date="1526493682497" expanded="true" signature="266:522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/Recipe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <marker date="1526494731372" expanded="true" signature="6:47" ph="..." />
+            <marker date="1526494731372" expanded="true" signature="73:385" ph="{...}" />
+            <marker date="1526494731372" expanded="true" signature="99:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeStep.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1526494749420" expanded="true" signature="6:47" ph="..." />
+            <marker date="1526494749420" expanded="true" signature="73:344" ph="{...}" />
+            <marker date="1526494749420" expanded="true" signature="103:342" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <marker date="1526494770992" expanded="true" signature="39:293" ph="{...}" />
+            <marker date="1526494770992" expanded="true" signature="69:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1526495448712" expanded="true" signature="6:53" ph="..." />
+            <marker date="1526495448712" expanded="true" signature="81:441" ph="{...}" />
+            <marker date="1526495448712" expanded="true" signature="128:439" ph="{...}" />
+            <marker date="1526495448712" expanded="true" signature="161:433" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeItemMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1526495448712" expanded="true" signature="6:53" ph="..." />
+            <marker date="1526495448712" expanded="true" signature="81:371" ph="{...}" />
+            <marker date="1526495448712" expanded="true" signature="136:369" ph="{...}" />
+            <marker date="1526495448712" expanded="true" signature="173:363" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/RecipeStepMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <marker date="1526495448712" expanded="true" signature="6:53" ph="..." />
+            <marker date="1526495448712" expanded="true" signature="81:420" ph="{...}" />
+            <marker date="1526495448712" expanded="true" signature="136:418" ph="{...}" />
+            <marker date="1526495448712" expanded="true" signature="173:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Controllers/RecipesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <marker date="1526496100067" expanded="true" signature="6:125" ph="..." />
+            <marker date="1526496100067" expanded="true" signature="156:1903" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="238:1901" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="375:443" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="540:734" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="841:1276" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="898:998" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="1399:1681" ph="{...}" />
+            <marker date="1526496100067" expanded="true" signature="1787:1895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotnet-hello-world-web/Models/Repository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <marker date="1526498872181" expanded="true" signature="6:146" ph="..." />
+            <marker date="1526498872181" expanded="true" signature="174:3797" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="211:3795" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="331:384" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="506:1147" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="532:1050" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1083:1137" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1201:1277" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1319:1384" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1432:2289" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1508:2279" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1580:1828" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1878:2234" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="1920:2067" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2114:2216" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2338:2993" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2414:2983" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2448:2571" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2621:2968" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2663:2801" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="2848:2950" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="3036:3789" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="3112:3779" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="3245:3368" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="3418:3765" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="3460:3598" ph="{...}" />
+            <marker date="1526498872181" expanded="true" signature="3624:3747" ph="{...}" />
           </folding>
         </state>
       </provider>

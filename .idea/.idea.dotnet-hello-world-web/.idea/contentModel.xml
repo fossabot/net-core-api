@@ -5,7 +5,18 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="dotnet-hello-world-web" t="IncludeRecursive">
         <e p="Controllers" t="Include">
+          <e p="LesiController.cs" t="Include" />
+          <e p="RecipesController.cs" t="Include" />
           <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Recipe.cs" t="Include" />
+          <e p="RecipeItem.cs" t="Include" />
+          <e p="RecipeItemMap.cs" t="Include" />
+          <e p="RecipeMap.cs" t="Include" />
+          <e p="RecipeStep.cs" t="Include" />
+          <e p="RecipeStepMap.cs" t="Include" />
+          <e p="Repository.cs" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Startup.cs" t="Include" />

@@ -1,10 +1,13 @@
-﻿using App.Metrics;
+﻿using System;
+using App.Metrics;
 using App.Metrics.AspNetCore;
 using App.Metrics.Formatters;
 using App.Metrics.Formatters.Prometheus;
 
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
+using Serilog;
+using Serilog.Events;
 
 namespace RestApi
 {
@@ -14,7 +17,26 @@ namespace RestApi
 
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+            Log.Logger = new LoggerConfiguration()
+                .MinimumLevel.Information()
+                .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
+                .Enrich.FromLogContext()
+                .WriteTo.Console()
+                .CreateLogger();
+
+            try
+            {
+                Log.Information("Starting web host");
+                BuildWebHost(args).Run();
+            }
+            catch (Exception ex)
+            {
+                Log.Fatal(ex, "Host terminated unexpectedly");
+            }
+            finally
+            {
+                Log.CloseAndFlush();
+            }            
         }
 
         private static IWebHost BuildWebHost(string[] args)
@@ -38,6 +60,7 @@ namespace RestApi
                         };
                     })
                 .UseStartup<Startup>()
+                .UseSerilog()
                 .Build();            
         }
     }
